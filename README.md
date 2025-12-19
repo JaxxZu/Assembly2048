@@ -22,7 +22,7 @@
 |學生C |測試bug，製作PowerPoint第1\~9、24\~28頁|
 
 ## 參考資料
-https://github.com/Eazybright/Irvine32
+https://github.com/Eazybright/Irvine32  
 《Assembly Language for x86 Processors》  
 http://godleon.blogspot.com/2008/02/assembly-segment.html    
 https://patorjk.com/software/taag    
